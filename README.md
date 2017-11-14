@@ -1,4 +1,4 @@
-# whitelistTwitter
+# bluebird aviary
 
 ## tl;dr I made a chrome extension which manipulates the DOM to only display replies and mentions from accounts you follow 
 
