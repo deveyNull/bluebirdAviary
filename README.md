@@ -6,4 +6,4 @@ Once upon a time, Twitter was a magical place where you could go and hang out wi
 
 It's been sad to watch Twitter turn into the cesspit that it is today, but there is something we can do about it. I come from an infosec background, and one thing I have learned the hard way is that blacklisting is a loser's game. I'm blue team all the way, and if I can whitelist my network, nothing is getting in that I don't want to. So instead of pulling an @jack and ignoring the problem/providing a dumb solution that nobody wanted, I made a Chrome Extension that whitelists your Twitter feed based off of who you follow. No more reply hell under your posts, no more piles of stupid comments to make you humanity. 
 
-### Just you, the people you follow, and what makes Twitter the one of the greatest platforms for communication that has ever been developed. 
+### Just you, the people you follow, and what makes Twitter one of the greatest platforms for communication that has ever been developed. 
