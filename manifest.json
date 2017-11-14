@@ -1,0 +1,13 @@
+{
+    "name": "whitelistTwitter",
+    "version": "1.0",
+    "content_scripts": [
+        {
+            "matches": ["https://twitter.com/*"],
+            "run_at": "document_idle",
+            "all_frames": true,
+            "js": ["content.js"]
+        }
+    ],
+    "manifest_version": 2
+}
